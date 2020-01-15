@@ -1,8 +1,8 @@
 # AsteroidSurfer
 
 Current functionality:
-Up arrow - Increase Speed (to max);
-Down arrow - Decrease Speed (to 0)
+* Up arrow - Increase Speed (to max);
+* Down arrow - Decrease Speed (to 0)
 
 Blue asteroids: Far away
 
