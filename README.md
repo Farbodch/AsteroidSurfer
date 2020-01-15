@@ -1,6 +1,6 @@
 # AsteroidSurfer
 
-A Java-based computer game that randomly generates asteroids, with the main objective of winning points by maneuvering around asteroids as the player flies through the field
+A Java-based computer game that randomly generates asteroids, with the main objective of winning points by maneuvering around asteroids as the player flies through the field.
 
 Current Functional Navigation:
 * Up arrow - Increase Speed (to max);
