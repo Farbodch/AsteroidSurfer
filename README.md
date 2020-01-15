@@ -15,9 +15,9 @@ As speed increases, rate at which ship gets closer to asteroids increases
 
 To Do:
 
-- Main Menu code & render
-- Point keeping system
-- Ship render
-- Ship left & right move keyboard nav
-- Player score track
-- Player stat(health,score,speed) render
+- [ ] Main Menu code & render
+- [ ] Point keeping system
+- [ ] Ship render
+- [ ] Ship left & right move keyboard nav
+- [ ] Player score track
+- [ ] Player stat(health,score,speed) render
