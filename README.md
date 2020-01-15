@@ -1,6 +1,6 @@
 # AsteroidSurfer
 
-Current Navigation:
+Current Functional Navigation:
 * Up arrow - Increase Speed (to max);
 * Down arrow - Decrease Speed (to 0)
 
