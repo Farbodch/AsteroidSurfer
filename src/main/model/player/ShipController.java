@@ -1,4 +1,4 @@
-package main.model.player;
+package src.main.model.player;
 
 //an abstract-high level representation of a player's generic ship controller, including min and max values &
 //controller navigation commands

@@ -1,7 +1,7 @@
-package test.model.asteroidTest;
+package src.test.model.asteroidTest;
 
-import main.model.asteroid.Asteroid;
-import main.model.field.AsteroidField;
+import src.main.model.asteroid.Asteroid;
+import src.main.model.field.AsteroidField;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;

@@ -1,4 +1,4 @@
-package main.model.player;
+package src.main.model.player;
 
 public class OutOfBoundsException extends Exception {
     public OutOfBoundsException(String msg) {super(msg);}

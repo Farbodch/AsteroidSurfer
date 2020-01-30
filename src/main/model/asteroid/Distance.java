@@ -1,5 +1,5 @@
-package main.model.asteroid;
-import main.model.MathFunctions;
+package src.main.model.asteroid;
+import src.main.model.MathFunctions;
 import java.util.ArrayList;
 import java.util.List;
 

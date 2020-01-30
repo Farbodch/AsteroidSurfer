@@ -5,9 +5,9 @@
  * Greg Case
  **/
 
-package main.model;
-import main.model.asteroid.OutOfLowerBoundsException;
-import main.model.asteroid.OutOfUpperBoundsException;
+package src.main.model;
+import src.main.model.asteroid.OutOfLowerBoundsException;
+import src.main.model.asteroid.OutOfUpperBoundsException;
 
 import java.util.List;
 import java.util.concurrent.ThreadLocalRandom;

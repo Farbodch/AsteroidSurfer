@@ -5,10 +5,10 @@
  * Javin Paul
  */
 
-package main.model.field;
+package src.main.model.field;
 
-import main.model.MathFunctions;
-import main.model.asteroid.Asteroid;
+import src.main.model.MathFunctions;
+import src.main.model.asteroid.Asteroid;
 
 
 import java.util.*;

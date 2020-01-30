@@ -1,7 +1,7 @@
-package test.model.playerTest;
+package src.test.model.playerTest;
 
-import main.model.player.OutOfBoundsException;
-import main.model.player.Player;
+import src.main.model.player.OutOfBoundsException;
+import src.main.model.player.Player;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 

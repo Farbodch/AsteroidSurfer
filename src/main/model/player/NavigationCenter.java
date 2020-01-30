@@ -1,4 +1,4 @@
-package main.model.player;
+package src.main.model.player;
 
 //represents the actual navigation center of the player, will all possible controllers declared
 public class NavigationCenter {

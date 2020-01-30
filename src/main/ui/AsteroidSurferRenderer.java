@@ -1,6 +1,6 @@
-package main.ui;
-import main.model.asteroid.Asteroid;
-import main.model.newGame;
+package src.main.ui;
+import src.main.model.asteroid.Asteroid;
+import src.main.model.newGame;
 
 import java.awt.*;
 import java.awt.geom.AffineTransform;

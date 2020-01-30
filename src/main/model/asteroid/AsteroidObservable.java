@@ -1,4 +1,4 @@
-package main.model.asteroid;
+package src.main.model.asteroid;
 
 public abstract class AsteroidObservable {
     abstract public void updateKillMeState();

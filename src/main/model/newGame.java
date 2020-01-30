@@ -1,10 +1,10 @@
-package main.model;
+package src.main.model;
 
-import main.model.asteroid.Asteroid;
-import main.model.field.AsteroidField;
-import main.model.field.Field;
-import main.model.player.OutOfBoundsException;
-import main.model.player.Player;
+import src.main.model.asteroid.Asteroid;
+import src.main.model.field.AsteroidField;
+import src.main.model.field.Field;
+import src.main.model.player.OutOfBoundsException;
+import src.main.model.player.Player;
 
 import java.sql.SQLOutput;
 

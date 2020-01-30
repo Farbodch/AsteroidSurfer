@@ -1,5 +1,5 @@
-package main.model.asteroid;
-import main.model.Coordinates;
+package src.main.model.asteroid;
+import src.main.model.Coordinates;
 
 //represents an asteroid object with max/currentRadius, coordinates, and distance from screen
 public class Asteroid extends AsteroidObservable implements circularObj {

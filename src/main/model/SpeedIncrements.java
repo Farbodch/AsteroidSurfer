@@ -1,6 +1,6 @@
-package main.model;
+package src.main.model;
 
-import main.model.asteroid.Distance;
+import src.main.model.asteroid.Distance;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,9 +1,7 @@
-package main.ui;
+package src.main.ui;
 
-import main.model.asteroid.OutOfLowerBoundsException;
-import main.model.asteroid.OutOfUpperBoundsException;
-import main.model.newGame;
-import main.model.player.OutOfBoundsException;
+import src.main.model.newGame;
+import src.main.model.player.OutOfBoundsException;
 
 import javax.swing.*;
 import java.awt.*;
